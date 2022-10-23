@@ -1,0 +1,12 @@
+.home {
+    position: absolute;
+    left: 18%;
+    top: 40%;
+    color: rgb(17, 166, 39); 
+  }
+
+  h1{
+    font-size: 120px;
+    text-decoration: underline;
+  }
+  

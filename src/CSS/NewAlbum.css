@@ -1,0 +1,18 @@
+form {
+    position: absolute;
+    left: 43%;
+    color: black;
+    top: 33%;
+  }
+  
+  #albumHeading {
+    position: absolute;
+    left: 34%;
+    color: rgb(19, 154, 50);
+    text-align: center;
+  }
+
+  h1{
+    font-size: 50px;
+  }
+  
