@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/album-collection-react/static/css/main.9f3a2415.css",
-    "main.js": "/album-collection-react/static/js/main.38f1b09f.js",
+    "main.js": "/album-collection-react/static/js/main.848ad8dd.js",
     "index.html": "/album-collection-react/index.html"
   },
   "entrypoints": [
     "static/css/main.9f3a2415.css",
-    "static/js/main.38f1b09f.js"
+    "static/js/main.848ad8dd.js"
   ]
 }
