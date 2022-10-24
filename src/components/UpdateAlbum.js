@@ -15,7 +15,7 @@ export default function UpdateAlbum(props) {
 
   /// For updating the album
   useEffect(() => {
-    let album = albums.find((ele) => ele.id === id);
+    let album = albums.find((ele) => ele.id == id);
     setAlbum(album);
     setTitle(album.title);
     setUserId(album.userId);

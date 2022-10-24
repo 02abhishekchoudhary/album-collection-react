@@ -12,12 +12,12 @@ function App() {
     getAlbums();
   }, []);
 
-  // useEffect(() => {
-  //   console.log(
-  //     albums.sort((a, b) => a.id - b.id),
-  //     "albums"
-  //   );
-  // });
+  useEffect(() => {
+    console.log(
+      albums.sort((a, b) => a.id - b.id),
+      "albums"
+    );
+  });
 
   const getAlbums = () => {
     fetch("https://jsonplaceholder.typicode.com/albums").then((result) => {
